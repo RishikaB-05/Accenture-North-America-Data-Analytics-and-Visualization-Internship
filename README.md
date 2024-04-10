@@ -1,4 +1,6 @@
 # Accenture-North-America-Data-Analytics-and-Visualization-Internship
+![image](https://github.com/RishikaB-05/Accenture-North-America-Data-Analytics-and-Visualization-Internship/assets/157221360/e1337e52-70f6-4094-817d-81255546e538)
+
 
 # Task - 1
 # Project Understanding:
